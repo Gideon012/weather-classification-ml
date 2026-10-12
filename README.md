@@ -14,7 +14,7 @@ Objectives
 - Investigate classification errors and weaknesses in individual classes.
 - Compare the original classification task with a simplified three-class task.
 
-## Tools and Technologies
+Tools and Technologies
 
 - Python
 - Jupyter Notebook
@@ -55,7 +55,7 @@ These metrics help reveal classification errors that an overall accuracy score m
 
 text
 weather-classification-ml/
-├── weather_classification.ipynb
+├──Weather Prediction Model.ipynb
 ├── README.md
 └── requirements.txt
 
